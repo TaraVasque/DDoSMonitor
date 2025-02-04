@@ -1,2 +1,1 @@
-# DDoSMonitor
-A small little tcp monitor that checks if and tcp connections go above a prerequisite thats manually set
+you can look through the code if oyu want, i didnt really make the code reader friendly and the gui needs to be made simpler aswell, other thatn that ill try to make anotherone in something like python so it can monitor http, udp and tcp alike instead of only one
